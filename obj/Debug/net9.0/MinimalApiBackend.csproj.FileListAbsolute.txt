@@ -49,3 +49,4 @@ C:\Users\The Hyper\Documents\MinimalApiBackend\obj\Debug\net9.0\refint\MinimalAp
 C:\Users\The Hyper\Documents\MinimalApiBackend\obj\Debug\net9.0\MinimalApiBackend.pdb
 C:\Users\The Hyper\Documents\MinimalApiBackend\obj\Debug\net9.0\MinimalApiBackend.genruntimeconfig.cache
 C:\Users\The Hyper\Documents\MinimalApiBackend\obj\Debug\net9.0\ref\MinimalApiBackend.dll
+C:\Users\The Hyper\Documents\MinimalApiBackend\obj\Debug\net9.0\MinimalApiBackend.sourcelink.json
